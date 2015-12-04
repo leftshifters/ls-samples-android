@@ -11,7 +11,7 @@
         android:theme="@style/AppTheme"
         android:name=".LsSampleApplication">
         <activity
-            android:name="io.leftshift.sample.activities.MainActivity"
+            android:name=".activities.RxActivity"
             android:label="@string/title_activity_main" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
