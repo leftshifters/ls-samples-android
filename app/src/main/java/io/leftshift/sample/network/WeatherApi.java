@@ -1,6 +1,6 @@
-package io.leftshift.rxjava.network;
+package io.leftshift.sample.network;
 
-import io.leftshift.rxjava.parser.CurrentWeatherResponse;
+import io.leftshift.sample.parser.CurrentWeatherResponse;
 import retrofit.http.GET;
 import retrofit.http.Query;
 import rx.Observable;

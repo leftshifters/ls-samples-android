@@ -1,5 +1,5 @@
 
-package io.leftshift.rxjava.parser;
+package io.leftshift.sample.parser;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

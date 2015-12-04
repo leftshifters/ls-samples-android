@@ -1,5 +1,5 @@
 
-package io.leftshift.rxjava.parser;
+package io.leftshift.sample.parser;
 
 import java.util.ArrayList;
 import java.util.List;

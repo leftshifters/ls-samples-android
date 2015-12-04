@@ -1,4 +1,4 @@
-package io.leftshift.rxjava.activities;
+package io.leftshift.sample.activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -6,9 +6,9 @@ import android.view.View;
 
 import butterknife.ButterKnife;
 import butterknife.OnClick;
-import io.leftshift.rxjava.R;
-import io.leftshift.rxjava.network.WeatherApi;
-import io.leftshift.rxjava.parser.CurrentWeatherResponse;
+import io.leftshift.sample.R;
+import io.leftshift.sample.network.WeatherApi;
+import io.leftshift.sample.parser.CurrentWeatherResponse;
 import retrofit.RestAdapter;
 import rx.Observable;
 import rx.Observer;
