@@ -1,7 +1,19 @@
 <resources>
-    <string name="app_name">RxJava</string>
+    <string name="app_name">LeftShift Samples</string>
     <string name="title_activity_main">MainActivity</string>
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <!--Add your example name here-->
+    <string-array name="examples">
+        <item>Rx Java</item>
+        <item>M Permission Model</item>
+    </string-array>
+    <string name="title_activity_account">AccountActivity</string>
+    <string name="app_settings">Settings</string>
+
+    <string name="permission_denied">Permission Denied, grant permission by clicking settings</string>
+    <string name="contact_permission">LeftShift Samples needs access to your contact</string>
+    <string name="email_hint">Enter your Email Address</string>
 </resources>
