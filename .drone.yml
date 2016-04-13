@@ -1,1 +1,5 @@
 image: jacekmarchwicki/android
+
+env:
+script:
+  - ./gradlew test assemble -PdisablePreDex
